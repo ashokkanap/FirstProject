@@ -1,0 +1,6 @@
+com\gi\userManagemnentApp\service\UserServiceImpl.class
+com\gi\userManagemnentApp\Controller\UserController.class
+com\gi\userManagemnentApp\dto\User.class
+com\gi\userManagemnentApp\service\UserService.class
+com\gi\userManagemnentApp\UserManagemnentAppApplication.class
+com\gi\userManagemnentApp\repository\UserRepository.class
